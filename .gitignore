@@ -1,0 +1,20 @@
+# SQLite база на податоци
+database/db.sqlite
+database/db.sqlite-journal
+database/db.sqlite-wal
+database/db.sqlite-shm
+
+# PHP сесии
+sessions/
+
+# IDE фајлови
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Оперативен систем
+.DS_Store
+Thumbs.db
+
